@@ -306,7 +306,7 @@ form.PL20 {
     list-style: none;
     margin: 0;
     padding: 0;
-    display: block;
+    display: inline-block;
 }
 .Block.BrandList li a,
 .SubBrandList li a,
