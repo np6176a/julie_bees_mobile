@@ -789,7 +789,7 @@ body.sitemap .Content ul:after {
     clear: left
 }
 .SortBox {
-    width: 50%;
+    width: 100%;
     margin: 15px;
 }
 .CompareButton {
