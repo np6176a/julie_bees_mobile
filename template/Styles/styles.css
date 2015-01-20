@@ -1181,6 +1181,7 @@ table.General tbody tr.First td {
     display: block;
     margin: 15px 15px;
     text-align: center;
+    padding-top: 15px;
 }
 .CategoryPagination .PrevNext {
     padding: 0 10px 0 0
