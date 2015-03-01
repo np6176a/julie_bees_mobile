@@ -2308,3 +2308,9 @@ label [class^="icon-"],
 label [class*=" icon-"] {
     display: none
 }
+
+div.ps-document-overlay
+{
+    background: #fefefe !important;
+}
+
